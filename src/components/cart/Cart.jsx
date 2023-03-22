@@ -51,7 +51,16 @@ const Cart = () => {
     const navigate = useNavigate();
 
     const goToPlaceOrder = () => {
-        navigate('/shipping');
+        alert("neeraj")
+        if (
+            localStorage.getItem('email') && localStorage.getItem('password')) {
+                navigate('/shipping');
+                
+           
+          } else {
+            alert("you are not logged in ");
+          }
+        
     };
 // console.log(cart)
     
