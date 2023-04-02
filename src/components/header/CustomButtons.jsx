@@ -41,8 +41,8 @@ const Wrapper = styled(Box)(({ theme }) => ({
 }));
 
 const LoginButton = styled(Button)`
-  color: #2874f0;
-  background: #FFFFFF;
+  color: #FFFFFF;
+  // background: #FFFFFF;
   text-transform: none;
   font-weight: 600;
   border-radius: 1;

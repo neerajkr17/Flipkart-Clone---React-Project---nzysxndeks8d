@@ -225,8 +225,8 @@ const Footer = () => {
     <FooterContainer>
       <FooterColumn>
         <FooterColumnHeading>About Us</FooterColumnHeading>
-        <FooterLink href="#">About Flipkart</FooterLink>
-        <FooterLink href="#">Contact Us</FooterLink>
+        <FooterLink href="https://www.flipkart.com/about-us?otracker=undefined_footer_navlinks">About Flipkart</FooterLink>
+        <FooterLink href="https://www.flipkart.com/helpcentre?otracker=undefined_footer_navlinks">Contact Us</FooterLink>
         <FooterLink href="#">Careers</FooterLink>
         <FooterLink href="#">Flipkart Stories</FooterLink>
       </FooterColumn>
@@ -240,18 +240,18 @@ const Footer = () => {
       </FooterColumn>
       <FooterColumn>
         <FooterColumnHeading>Policy</FooterColumnHeading>
-        <FooterLink href="#">Return Policy</FooterLink>
-        <FooterLink href="#">Terms Of Use</FooterLink>
-        <FooterLink href="#">Security</FooterLink>
-        <FooterLink href="#">Privacy</FooterLink>
-        <FooterLink href="#">Sitemap</FooterLink>
-        <FooterLink href="#">EPR Compliance</FooterLink>
+        <FooterLink href="https://www.flipkart.com/pages/returnpolicy?otracker=undefined_footer_navlinks">Return Policy</FooterLink>
+        <FooterLink href="https://www.flipkart.com/pages/terms?otracker=undefined_footer_navlinks">Terms Of Use</FooterLink>
+        <FooterLink href="https://www.flipkart.com/pages/paymentsecurity?otracker=undefined_footer_navlinks">Security</FooterLink>
+        <FooterLink href="https://www.flipkart.com/pages/privacypolicy?otracker=undefined_footer_navlinks">Privacy</FooterLink>
+        <FooterLink href="https://www.flipkart.com/sitemap?otracker=undefined_footer_navlinks">Sitemap</FooterLink>
+        <FooterLink href="https://www.flipkart.com/pages/ewaste-compliance-tnc?otracker=undefined_footer_navlinks">EPR Compliance</FooterLink>
       </FooterColumn>
       <FooterColumn>
         <FooterColumnHeading>Social</FooterColumnHeading>
-        <FooterLink href="#">Facebook</FooterLink>
-        <FooterLink href="#">Twitter</FooterLink>
-        <FooterLink href="#">YouTube</FooterLink>
+        <FooterLink href="https://www.facebook.com/flipkart">Facebook</FooterLink>
+        <FooterLink href="https://twitter.com/flipkart">Twitter</FooterLink>
+        <FooterLink href="https://www.youtube.com/flipkart">YouTube</FooterLink>
       </FooterColumn>
       <AddressContainer>
         <AddressTitle>Registered Office Address:</AddressTitle>
