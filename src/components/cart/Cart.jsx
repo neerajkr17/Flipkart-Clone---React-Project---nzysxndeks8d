@@ -51,7 +51,7 @@ const Cart = () => {
     const navigate = useNavigate();
 
     const goToPlaceOrder = () => {
-        alert("neeraj")
+        
         if (
             localStorage.getItem('email') && localStorage.getItem('password')) {
                 navigate('/shipping');

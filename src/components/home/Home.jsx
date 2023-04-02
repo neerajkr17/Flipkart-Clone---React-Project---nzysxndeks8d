@@ -2,6 +2,8 @@ import React from 'react'
 import NavBar from './NavBar'
 import Banner from './Banner'
 import Slide from './Slide';
+import Footer from './Footer'
+
 import { Box, styled } from '@mui/material';
 import MidSlides from './MidSlides';
 import MidSection from './MidSection';
@@ -22,7 +24,7 @@ const Home = () => {
         <MidSection />
         <Slide title="Best Discounts for You" timer={false} utoPlay={false} />
         <Slide title="Season's Top Pick" timer={false} utoPlay={false} />
-        
+        <Footer />
       </Component>
     </>
     

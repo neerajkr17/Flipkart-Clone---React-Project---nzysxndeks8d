@@ -7,6 +7,7 @@ import { Box } from '@mui/material';
 import Header from './components/header/Header';
 
 import Home from './components/home/Home';
+import Footer from './components/home/Footer';
 import Cart from './components/cart/Cart'
 import DetailView from './components/details/DetailView';
 import Shipping from "./components/shipping/Shipping";
@@ -26,6 +27,8 @@ function App() {
             <Route path='/products/:id' element={<DetailView />} />
             <Route path='/cart' element={<Cart />} />
             <Route path='/shipping' element={<Shipping />} />
+            <Route path='/footer' element={<Footer />} />
+
           </Routes>
         </Box>
       </Router>
