@@ -1,7 +1,7 @@
 
 # Flipkart Clone Front-end APP
 
-(https://github.com/tivivek/) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
+Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
 - It has a top notch user interface similar to Flipkart. 
 - It has login and logout feature.
 - It has product detal page
