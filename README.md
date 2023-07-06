@@ -52,16 +52,3 @@ Start the server
 
 
 
-## Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
- 
- `REACT_APP_API_KEY`
-
-
-##  👋 Contact Me
-
-If any query please contact on 
-
-[![linkedin](https://www.linkedin.com/in/er-vivektiwari/)
-
